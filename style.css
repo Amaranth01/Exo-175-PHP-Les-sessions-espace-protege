@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+label {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+input {
+    width: 20rem;
+}
+
+#submit {
+    width: 10rem;
+    margin-top: 2rem;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#admin {
+    background-color: #abd5c1;
+}
+
+#good {
+    font-size: 3rem;
+    margin-top: 4rem;
+    text-align: center;
+}
